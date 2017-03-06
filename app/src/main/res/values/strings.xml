@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImageOrganizer</string>
+    <string name="txtTitle">Little Tikes \"Li\'l Slayer\" is the most advanced military grade \"childs\" vehicle ever created!</string>
+    <string name="txtTitle2">select the \"Li\'l Slayer\" Activity Vehicle to find out more!</string>
+    <string name="txtMainTitle">LI\'L SLAYER!</string>
+    <string name="title_activity_picture_grid">pictureGrid</string>
+    <string name="imgLarge">Li\'l Slayer Images</string>
+    <string name="txtTurret">M46 Light Anti-Aircraft Gun</string>
+    <string name="txtRockets">Anti-Aircraft Rockets</string>
+    <string name="txtTires">Tubeless 20 Ply Forresty Monster Tires</string>
+    <string name="txtCar">Cheap Plastic (Probably Toxic)</string>
+</resources>
